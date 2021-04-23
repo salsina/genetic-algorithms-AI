@@ -13,6 +13,7 @@ From the next line to the following "d" lines, every line consists of three part
 <h4>we have 4 kinds of constrains:</h4>
 1) The number of doctors assigned to any shift, should be a number between that shift's minimum and maximum number of doctors.
 
+
 2)If a doctor is in a night shift, he or she can not work at the next day's morning and evening shift.
 
 3)No doctor can be at three night shifts in a row.
