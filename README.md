@@ -1,6 +1,7 @@
 # genetic-algorithms-AI
 scheduling doctor shifts for a clinic using the genetic algorithms
-in this project we have some doctors thatwe would like to fir them in our clinics shifts using genetic algorithms (crossovering and mutation).
+
+<h5>in this project we have some doctors that we would like to fir them in our clinics shifts using genetic algorithms (crossovering and mutation).</h5>
 
 there are two sample input files tes1 and tes2. There are some informations in these files as below:
 The first line gives us the information about first number of days(d) and second number of doctors(p).
